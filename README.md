@@ -18,6 +18,7 @@ A task can consist of three major phases:
 * The application of cached changes (change data capture, CDC)
 * Ongoing replication
 
+
 * Pricing - Pay for ec2 replication instances and log storage
 ---
 
